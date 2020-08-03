@@ -38,7 +38,7 @@ Always keen to learn and explore new technologies.
 <br />
 <br />
 
-## I'm a Developer and Competitive Programmer !
+### I'm a Developer and Competitive Programmer !
 
 <br />
 
