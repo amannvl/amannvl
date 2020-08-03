@@ -40,6 +40,9 @@ Always keen to learn and explore new technologies.
 
 ## I'm a Developer and Competitive Programmer !
 
+<br />
+
+
 - 🔭 I’m currently working on building different web application clones like Twitter, Tiktok and Instagram using technologies like Django and Bootstrap4.
 - 🌱 I’m currently learning React and its integration with the Django RESTful APIs.
 - 👯 I’m looking to collaborate on making Web Applications using Django and for Competitive Programming.
