@@ -1,13 +1,9 @@
-Hey ,
-My name is AMAN SHARMA.
-
+### Hi there, I'm Aman Sharma - aka [amannvl][website] 👋
 
 Computer Science final year B.Tech student at AKTU.
 Always keen to learn and explore new technologies.
 
-Check my Portfolio on https://www.amannvl.me
-
-Some of my projects are -
+### Some of my projects are -
 
 [Twitter Clone](https://www.twitter.amannvl.me) using Bootstrap and Django and Rest APIs and hosted on nginx configuration on AWS EC2 instance , with integrating AWS RDS PostgreSQL database and AWS S3 as media storage.
 
@@ -16,29 +12,50 @@ Some of my projects are -
 [Tiktok Clone](http://tiktok.amannvl.me/) using technologies like React and Django and firebase hosting and firestore a firebase database.
 
 [Movie Review Website](http://hashtagmovies.herokuapp.com/) built using technologies like Django and integrating different APIs with it like IMDB API and TMDB API , and hosted on HEROKU and using Heroku DB.
+<br />
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 
-
-I was a back-end intern in an startup.There I learned a lot of things,I learned how to build RESTful APIs.Overall it was a nice experiance working on some real-time projects and contributing all those little codes I could make back then.
-I am now a Python Django developer , though I am still learning new things while implementing them in few of my projects.
-I've build some web apps using Django, they are "hashtagmovies.com" which can review any movie or series or event you search on it and "hashtagnews.com" which is basically a news website , I have also integrated the COVID-19 real updates on this website.
-The best part about me is that if I'm into something then I usually break my own limits doing that thing to the fullest or until I found a solution for that problem.
-I will not say that I know all the answers to your questions, but I know I'm good at finding the solutions. 
-
+## I'm a Developer and Competitive Programmer !
 
 - 🔭 I’m currently working on building different web application clones like Twitter, Tiktok and Instagram using technologies like Django and Bootstrap4.
 - 🌱 I’m currently learning React and its integration with the Django RESTful APIs.
 - 👯 I’m looking to collaborate on making Web Applications using Django and for Competitive Programming.
 - 💬 Ask me about Python, Django, HTML, CSS, Bootstrap, RESTful APIs, Amazon Web Services, AWS RDS, AWS S3, AWS Route53, AWS EC2, Nginx and Heroku.
-- 📫 How to reach me: 
       
-My HackerRank Profile: [Connect with me!](https://www.hackerrank.com/amannvl3)
+<br />
+<br />
+### Connect with me:
 
+[<img align="left" alt="amannvl.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="amannvl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="amannvl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="amannvl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-My Social Media Platform.
+<br />
+<br />
+<img align="left" alt="amannvl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amannvl&show_icons=true&hide_border=true" />
 
-My LinkedIn Profile: [Connect with me!](https://www.linkedin.com/in/amannvl/)
-
-My Instagram Profile: [Connect with me!](https://www.instagram.com/hashtag_aman/)
-
-My Twitter Profile: [Connect with me!](https://www.twitter.com/amannvl/)
+[website]: https://www.amannvl.me
+[twitter]: https://twitter.com/amannvl
+[instagram]: https://instagram.com/hashtag_aman
+[linkedin]: https://linkedin.com/in/amannvl
