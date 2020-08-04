@@ -68,8 +68,8 @@ Always keen to learn and explore new technologies.
 <br />
 
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=srthkpthk&title_color=fff&text_color=9f9f9f&bg_color=151515" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark" alt="Stats for Srthk"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=amannvl&title_color=fff&text_color=9f9f9f&bg_color=151515" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannvl&theme=dark" alt="Stats for amannvl"/>
 
 <br />
 
