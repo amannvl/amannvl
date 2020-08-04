@@ -1,4 +1,4 @@
-### Hi there, I'm Aman Sharma - aka [amannvl][website] 👋
+## Hi there, I'm Aman Sharma - aka [amannvl][website] 👋
 
 Computer Science final year B.Tech student at AKTU.
 Always keen to learn and explore new technologies.
@@ -60,9 +60,19 @@ Always keen to learn and explore new technologies.
 [<img align="left" alt="amannvl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="amannvl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<!-- <img align="left" alt="amannvl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amannvl&show_icons=true&hide_border=true" /> -->
+
+
+
 <br />
 <br />
-<img align="left" alt="amannvl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amannvl&show_icons=true&hide_border=true" />
+
+<hr>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=srthkpthk&title_color=fff&text_color=9f9f9f&bg_color=151515" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark" alt="Stats for Srthk"/>
+
+<br />
+
 
 [website]: https://www.amannvl.me
 [twitter]: https://twitter.com/amannvl
