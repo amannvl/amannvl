@@ -1,127 +1,101 @@
-```markdown
-# Hi there, I'm Aman Sharma 👋
+# Hi there 👋, I'm Aman Sharma
 
 ### Senior Golang Developer | Technical Lead | Cloud-Native Backend Engineer
 
-Senior Golang Developer with 6+ years of experience building scalable backend systems, distributed microservices, cloud-native applications, and DevOps platforms for enterprise environments.
+Senior Golang Developer with **6+ years of experience** building scalable backend systems, distributed microservices, cloud-native platforms, and DevOps pipelines for enterprise applications.
 
-Currently working as a **Technical Lead at HCLTech**, I specialize in designing highly available backend systems, event-driven architectures, cloud platforms, and modern DevOps practices.
+Currently working as a **Technical Lead at HCLTech**, focused on building reliable, scalable, and high-performance backend systems.
 
 ---
 
-## 🚀 Professional Highlights
+## 🚀 About Me
 
-- 🔹 6+ years of experience in backend engineering and distributed systems.
-- 🔹 Technical Lead at HCLTech.
-- 🔹 Expertise in Golang, Kafka, Kubernetes, Docker, Terraform, AWS, and Azure.
-- 🔹 Built CI/CD pipelines for 19+ microservices.
-- 🔹 Experience supporting 50+ digital products and platforms.
-- 🔹 Led enterprise cloud migrations from AWS to Azure.
-- 🔹 Designed orchestration platforms and reusable backend frameworks.
-- 🔹 Passionate about Generative AI, AI Agents, and cloud-native technologies.
+- 🔭 Technical Lead at HCLTech
+- ⚡ Specializing in Golang, Distributed Systems & Microservices
+- ☁️ Experience with AWS & Azure cloud platforms
+- 🚀 Built CI/CD pipelines for 19+ microservices
+- 📦 Worked on systems supporting 50+ digital products
+- 🤖 Exploring Generative AI, AI Agents, and RAG architectures
+- 🌱 Passionate about System Design and Platform Engineering
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=go,python,javascript,php,c" />
+<img src="https://skillicons.dev/icons?i=go,python,js,php,bash" />
 </p>
 
-### Backend & Architecture
+### Backend & Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis,postgresql,mongodb" />
+</p>
+
 - Microservices
 - Distributed Systems
 - REST APIs
 - Event-Driven Architecture
 - Kafka
 - RabbitMQ
-- Concurrency Patterns
+- Elasticsearch
 
-### Cloud Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
+### Cloud & DevOps
 
-### DevOps & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,githubactions" />
 </p>
 
 - Helm
 - CI/CD
-- Infrastructure as Code (IaC)
-
-### Databases & Caching
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,elasticsearch" />
-</p>
-
-### Developer Tools
-- Git
-- GitHub
+- Infrastructure as Code
 - SonarQube
 - Datadog
-- Postman
 - Argo Workflows
 
-### GenAI & AI Tools
+### GenAI
+
 - OpenAI APIs
 - AI Agents
 - Ollama
 - Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
+- RAG
 
 ---
 
-## 🔬 Personal Projects
+## 🚀 Featured Projects
 
-I enjoy building products and experimenting with emerging technologies.
+### 🎥 Media Transcoder Engine
+High-performance media transcoding engine built using Golang for media processing and content delivery workflows.
 
-Projects span multiple domains including:
+### 📺 Media Upgrade for M3U8s
+Utilities for upgrading and processing M3U8 playlists for media streaming systems.
 
-- 🎥 Media Transcoding
-- 📹 Media Processing Pipelines
-- 🤖 AI Integrations
-- ⚙️ Workflow Automation
-- ☁️ Cloud-Native Backend Systems
-- 🌐 Full Stack Applications
+Repository:
+https://github.com/amannvl/upgradeM3u8
 
-### 🚀 Explore My Projects
+### ⚙️ Distributed Orchestration Engine
+Built using Golang, Kafka and Argo Workflows for automated remediation and workflow orchestration.
 
-👉 **Portfolio:**  
-**https://codewithaman.in**
+### 🤖 AI Resume Analyzer
+AI-powered resume evaluation platform.
 
-👉 **Projects:**  
-**https://codewithaman.in/#work**
+🌐 https://analyzecv.codewithaman.in
 
----
+### 📈 AI Stock Agent
+AI-driven stock analysis assistant built using Golang.
 
-## 🌱 Currently Exploring
-
-- Generative AI Applications
-- AI Agents
-- RAG Architectures
-- Platform Engineering
-- Advanced System Design
-- Kubernetes Ecosystem
-- Observability & Reliability Engineering
+🌐 https://aistockagent.codewithaman.in
 
 ---
 
-## 💬 Ask Me About
+## 🌐 Portfolio
 
-- Golang
-- Microservices
-- Kafka
-- Kubernetes
-- Docker
-- Terraform
-- AWS & Azure
-- CI/CD
-- Distributed Systems
-- System Design
-- Generative AI
+- Website: https://codewithaman.in
+- Projects: https://codewithaman.in/#work
+- LinkedIn: https://linkedin.com/in/amannvl
 
 ---
 
@@ -135,12 +109,35 @@ Certified across multiple domains including:
 - Golang
 - DevOps
 
-📌 Certifications available on my LinkedIn profile:
-https://linkedin.com/in/amannvl
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=amannvl&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannvl&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amannvl&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amannvl&theme=github-dark)](https://github.com/amannvl)
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
 <a href="https://codewithaman.in">
@@ -158,33 +155,12 @@ https://linkedin.com/in/amannvl
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amannvl&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannvl&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img src="https://komarev.com/ghpvc/?username=amannvl&style=flat-square" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=amannvl&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🏅 Profile Views
-
-![](https://komarev.com/ghpvc/?username=amannvl&style=flat-square)
 
 ---
 
 ### ⚡ Fun Fact
 
-> Building scalable systems, exploring new technologies, and continuously learning never gets old 🚀
-```
+> Building scalable systems, experimenting with AI, and continuously learning new technologies never gets old 🚀
