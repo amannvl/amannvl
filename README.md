@@ -1,80 +1,190 @@
-## Hi there, I'm Aman Sharma - aka [amannvl][website] 👋
+```markdown
+# Hi there, I'm Aman Sharma 👋
 
-Computer Science final year B.Tech student at AKTU.
-Always keen to learn and explore new technologies.
+### Senior Golang Developer | Technical Lead | Cloud-Native Backend Engineer
 
-### Some of my projects are -
+Senior Golang Developer with 6+ years of experience building scalable backend systems, distributed microservices, cloud-native applications, and DevOps platforms for enterprise environments.
 
-[Twitter Clone](https://www.twitter.amannvl.me) using Bootstrap and Django and Rest APIs and hosted on nginx configuration on AWS EC2 instance , with integrating AWS RDS PostgreSQL database and AWS S3 as media storage.
+Currently working as a **Technical Lead at HCLTech**, I specialize in designing highly available backend systems, event-driven architectures, cloud platforms, and modern DevOps practices.
 
-[Covid-19 Global Tracker](https://www.covid.amannvl.me) using technologies like Django and Javascript and hosting the project on AWS EC2 instance.
+---
 
-[Tiktok Clone](http://tiktok.amannvl.me/) using technologies like React and Django and firebase hosting and firestore a firebase database.
+## 🚀 Professional Highlights
 
-[Movie Review Website](http://hashtagmovies.herokuapp.com/) built using technologies like Django and integrating different APIs with it like IMDB API and TMDB API , and hosted on HEROKU and using Heroku DB.
-<br />
-<br />
+- 🔹 6+ years of experience in backend engineering and distributed systems.
+- 🔹 Technical Lead at HCLTech.
+- 🔹 Expertise in Golang, Kafka, Kubernetes, Docker, Terraform, AWS, and Azure.
+- 🔹 Built CI/CD pipelines for 19+ microservices.
+- 🔹 Experience supporting 50+ digital products and platforms.
+- 🔹 Led enterprise cloud migrations from AWS to Azure.
+- 🔹 Designed orchestration platforms and reusable backend frameworks.
+- 🔹 Passionate about Generative AI, AI Agents, and cloud-native technologies.
 
-### Languages and Tools:
+---
 
-<br />
+## 🛠 Tech Stack
 
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][website]
-[<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-[<img align="left" alt="postgresql" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
-[<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Deno" width="35px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
-[<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=go,python,javascript,php,c" />
+</p>
 
-<br />
-<br />
+### Backend & Architecture
+- Microservices
+- Distributed Systems
+- REST APIs
+- Event-Driven Architecture
+- Kafka
+- RabbitMQ
+- Concurrency Patterns
 
-### I'm a Developer and Competitive Programmer !
+### Cloud Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
 
-<br />
+### DevOps & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,githubactions" />
+</p>
 
+- Helm
+- CI/CD
+- Infrastructure as Code (IaC)
 
-- 🔭 I’m currently working on building different web application clones like Twitter, Tiktok and Instagram using technologies like Django and Bootstrap4.
-- 🌱 I’m currently learning React and its integration with the Django RESTful APIs.
-- 👯 I’m looking to collaborate on making Web Applications using Django and for Competitive Programming.
-- 💬 Ask me about Python, Django, HTML, CSS, Bootstrap, RESTful APIs, Amazon Web Services, AWS RDS, AWS S3, AWS Route53, AWS EC2, Nginx and Heroku.
-      
-<br />
-<br />
+### Databases & Caching
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,elasticsearch" />
+</p>
 
-### Connect with me !
+### Developer Tools
+- Git
+- GitHub
+- SonarQube
+- Datadog
+- Postman
+- Argo Workflows
 
-<br />
+### GenAI & AI Tools
+- OpenAI APIs
+- AI Agents
+- Ollama
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
 
-[<img align="left" alt="amannvl.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="amannvl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="amannvl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="amannvl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<!-- <img align="left" alt="amannvl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amannvl&show_icons=true&hide_border=true" /> -->
+## 🔬 Personal Projects
 
+I enjoy building products and experimenting with emerging technologies.
 
+Projects span multiple domains including:
 
-<br />
-<br />
+- 🎥 Media Transcoding
+- 📹 Media Processing Pipelines
+- 🤖 AI Integrations
+- ⚙️ Workflow Automation
+- ☁️ Cloud-Native Backend Systems
+- 🌐 Full Stack Applications
 
-<hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=amannvl&title_color=fff&text_color=9f9f9f&bg_color=151515" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannvl&theme=dark" alt="Stats for amannvl"/>
+### 🚀 Explore My Projects
 
-<br />
+👉 **Portfolio:**  
+**https://codewithaman.in**
 
+👉 **Projects:**  
+**https://codewithaman.in/#work**
 
-[website]: https://www.amannvl.me
-[twitter]: https://twitter.com/amannvl
-[instagram]: https://instagram.com/hashtag_aman
-[linkedin]: https://linkedin.com/in/amannvl
+---
+
+## 🌱 Currently Exploring
+
+- Generative AI Applications
+- AI Agents
+- RAG Architectures
+- Platform Engineering
+- Advanced System Design
+- Kubernetes Ecosystem
+- Observability & Reliability Engineering
+
+---
+
+## 💬 Ask Me About
+
+- Golang
+- Microservices
+- Kafka
+- Kubernetes
+- Docker
+- Terraform
+- AWS & Azure
+- CI/CD
+- Distributed Systems
+- System Design
+- Generative AI
+
+---
+
+## 🏆 Certifications
+
+Certified across multiple domains including:
+
+- Generative AI (Level 3)
+- AWS
+- Kafka
+- Golang
+- DevOps
+
+📌 Certifications available on my LinkedIn profile:
+https://linkedin.com/in/amannvl
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://codewithaman.in">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/amannvl">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amannvl">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amannvl&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amannvl&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amannvl&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏅 Profile Views
+
+![](https://komarev.com/ghpvc/?username=amannvl&style=flat-square)
+
+---
+
+### ⚡ Fun Fact
+
+> Building scalable systems, exploring new technologies, and continuously learning never gets old 🚀
+```
